@@ -1,0 +1,15 @@
+td {
+	text-align: center;
+	background: red;
+	color: white;
+	font-weight: 600;
+}
+.status {
+	background: green;
+	color: white;
+	font-weight: 600;
+}
+.link {
+	text-decoration: none;
+	color: white;
+}

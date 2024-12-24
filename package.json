@@ -1,0 +1,12 @@
+{
+  "name": "todos",
+  "version": "1.0.0",
+  "workspaces": [
+    "server/*",
+    "frontend/*"
+  ],
+  "scripts": {
+    "start:dev": "npm run --prefix server start:dev",
+    "start:front:dev": "npm run --prefix frontend dev"
+  }
+}
